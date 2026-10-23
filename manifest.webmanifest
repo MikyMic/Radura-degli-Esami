@@ -1,0 +1,16 @@
+{
+  "name": "Radura degli Esami",
+  "short_name": "Radura",
+  "description": "Il tuo regno di studio in pixel art: esami, timer, compagni fantasy, orario e sessioni.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFF4DC",
+  "theme_color": "#9ADBFF",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
